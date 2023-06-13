@@ -5,7 +5,7 @@ console.log(character);
 
 /* 1.2A Declara 3 variables con los nombres y valores siguientes.
 Muestralos por consola de esta forma:
-'Soy Jon Snow, tengo 24 años y me gustan los lobos.'*/
+'Soy Jon Snow, tengo 24 años y me gustan los lobos.' */
 const firstName = 'Jon';
 const lastName = 'Snow';
 const age = 24;
