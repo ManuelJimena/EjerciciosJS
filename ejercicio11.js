@@ -11,4 +11,4 @@ function average(param) {
     console.log(promedio);
 }
 
-average(numbers)
+average(numbers) //23.428571428571427
