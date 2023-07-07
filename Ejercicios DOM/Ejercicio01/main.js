@@ -16,9 +16,9 @@ console.log(p);
 /* 1.4 Usa querySelector para mostrar por consola todos los elementos con
 la clase.pokemon*/
 
-const elementosPokemon = document.querySelectorAll('.pokemon');
-elementosPokemon.forEach((elemento) => {
-  console.log(elemento.textContent);
+const pokemonElements = document.querySelectorAll('.pokemon');
+pokemonElements.forEach((elements) => {
+  console.log(elements.textContent);
 });
 
 
